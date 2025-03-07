@@ -5,6 +5,9 @@
 [submodule "owidapi"]
 	path = owidapi
 	url = https://github.com/tidy-intelligence/r-owidapi
+[submodule "uisapi"]
+	path = uisapi
+	url = https://github.com/tidy-intelligence/r-uisapi
 [submodule "wbwdi"]
 	path = wbwdi
 	url = https://github.com/tidy-intelligence/r-wbwdi
