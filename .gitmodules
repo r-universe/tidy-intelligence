@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "oecdoda"]
+	path = oecdoda
+	url = https://github.com/tidy-intelligence/r-oecdoda
 [submodule "owidapi"]
 	path = owidapi
 	url = https://github.com/tidy-intelligence/r-owidapi
