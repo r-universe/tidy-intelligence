@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "datacommons"]
+	path = datacommons
+	url = https://github.com/tidy-intelligence/r-datacommons
 [submodule "oecdoda"]
 	path = oecdoda
 	url = https://github.com/tidy-intelligence/r-oecdoda
