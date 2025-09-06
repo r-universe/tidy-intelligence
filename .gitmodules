@@ -5,6 +5,9 @@
 [submodule "datacommons"]
 	path = datacommons
 	url = https://github.com/tidy-intelligence/r-datacommons
+[submodule "econtools"]
+	path = econtools
+	url = https://github.com/tidy-intelligence/r-econtools
 [submodule "oecdoda"]
 	path = oecdoda
 	url = https://github.com/tidy-intelligence/r-oecdoda
