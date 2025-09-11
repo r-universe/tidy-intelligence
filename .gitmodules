@@ -5,6 +5,9 @@
 [submodule "datacommons"]
 	path = datacommons
 	url = https://github.com/tidy-intelligence/r-datacommons
+[submodule "econdataverse"]
+	path = econdataverse
+	url = https://github.com/tidy-intelligence/r-econdataverse
 [submodule "econtools"]
 	path = econtools
 	url = https://github.com/tidy-intelligence/r-econtools
