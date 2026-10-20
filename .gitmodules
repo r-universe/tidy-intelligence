@@ -5,24 +5,3 @@
 [submodule "datacommons"]
 	path = datacommons
 	url = https://github.com/tidy-intelligence/r-datacommons
-[submodule "econdatasets"]
-	path = econdatasets
-	url = https://github.com/tidy-intelligence/r-econdatasets
-[submodule "econdataverse"]
-	path = econdataverse
-	url = https://github.com/tidy-intelligence/r-econdataverse
-[submodule "econtools"]
-	path = econtools
-	url = https://github.com/tidy-intelligence/r-econtools
-[submodule "oecdoda"]
-	path = oecdoda
-	url = https://github.com/tidy-intelligence/r-oecdoda
-[submodule "owidapi"]
-	path = owidapi
-	url = https://github.com/tidy-intelligence/r-owidapi
-[submodule "uisapi"]
-	path = uisapi
-	url = https://github.com/tidy-intelligence/r-uisapi
-[submodule "wbwdi"]
-	path = wbwdi
-	url = https://github.com/tidy-intelligence/r-wbwdi
